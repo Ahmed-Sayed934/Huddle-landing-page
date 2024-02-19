@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.container {
+    background-color: hsl(257, 40%, 49%) ;
+    
+}
+button {
+    font-family: "Open Sans", sans-serif;
+}
+
+#body-r p {
+    font-family: "Open Sans", sans-serif;
+}
+#body-r h2 {
+    font-family: "Poppins", sans-serif;
+}
+button:hover,
+button:active{
+
+    background-color:hsl(300, 69%, 71%) ;
+}
+i {
+    color: #fff;
+}
+div.icon-container:hover ,
+div.icon-container:active {
+    i{
+    color: hsl(300, 69%, 71%);
+    }
+    border-color:hsl(300, 69%, 71%) ;
+}
+
